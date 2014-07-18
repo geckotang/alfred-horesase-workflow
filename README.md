@@ -8,3 +8,5 @@
 Enterで画像のURLをクリップボードにコピーします。
 
 Cmd+Enterでマークダウン形式で、クリップボードにコピーします。
+
+[DOWNLOAD](https://github.com/geckotang/alfred-horesase-workflow/releases) からダウンロードして、インストールしてください。
